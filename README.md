@@ -79,7 +79,6 @@
 ```
 .
 ├── semantic_bible.ipynb      # основной ноутбук (все фазы)
-├── EDA.ipynb                 # разведочный анализ корпуса
 ├── corpus.parquet            # корпус стихов с verse_id и метаданными
 ├── train_queries.csv         # обучающие пары
 ├── test_queries.csv          # тестовые пары
